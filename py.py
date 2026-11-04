@@ -6,6 +6,3 @@ for i in range(5):
 # while True:
 #     print("Archie is cool")
 
-string = "This is a string"
-
-print(string[-1])
